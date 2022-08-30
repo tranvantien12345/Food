@@ -21,7 +21,8 @@
 # Change Password
 
 <img width="440" alt="Screen Shot 2022-08-30 at 16 29 20" src="https://user-images.githubusercontent.com/91654688/187401996-6e3a7bc2-da19-4c59-b650-81ff3355b775.png">
-# choose photo from gallery
+# Choose photo from gallery
 <img width="484" alt="Screen Shot 2022-08-30 at 16 34 50" src="https://user-images.githubusercontent.com/91654688/187403150-7aa57b1b-c55d-4db5-81e1-0532f98b95d6.png">
-# Log out 
+
+# Log out
 <img width="440" alt="Screen Shot 2022-08-30 at 16 35 39" src="https://user-images.githubusercontent.com/91654688/187403346-b3496202-730f-4572-b796-8f1da36ecb45.png">
